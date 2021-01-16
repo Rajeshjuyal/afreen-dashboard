@@ -15,8 +15,8 @@
   padding: 50px;
 }
 .login-img {
-  background-color: black;
   display: flex;
+  width: 50%;
 }
 .login-img-cont {
   display: flex;

@@ -15,9 +15,8 @@
   padding: 50px;
 }
 .register-img {
-  background-color: black;
   display: flex;
-  width: 30%;
+  width: 50%;
 }
 .register-img-cont {
   display: flex;
@@ -25,12 +24,15 @@
   align-items: center;
 }
 .register-footer {
-  display: " felx";
+  display: flex;
   justify-content: center;
   align-items: center;
 }
 .company {
-  color: "balck";
-  margin: "0px 4px ";
-  font-weight: "700";
+  color: gold;
+  margin: 0px 4px;
+  font-weight: 700;
+}
+.mybtn {
+  background-color: chocolate;
 }
