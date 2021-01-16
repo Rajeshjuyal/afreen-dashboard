@@ -1,0 +1,36 @@
+.register {
+  width: 100vw;
+  min-width: 100vw;
+  height: 90vh;
+  background-image: url("https://thumbs.dreamstime.com/b/unisex-salon-india-unisex-salon-india-hair-spa-style-beauty-152946988.jpg");
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+.register-form {
+  width: 480px;
+  height: 480px;
+  background-color: white;
+  margin: auto;
+  padding: 50px;
+}
+.register-img {
+  background-color: black;
+  display: flex;
+  width: 30%;
+}
+.register-img-cont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.register-footer {
+  display: " felx";
+  justify-content: center;
+  align-items: center;
+}
+.company {
+  color: "balck";
+  margin: "0px 4px ";
+  font-weight: "700";
+}

@@ -1,0 +1,36 @@
+.login {
+  width: 100vw;
+  min-width: 100vw;
+  height: 100vh;
+  background-image: url("https://previews.123rf.com/images/studiom1/studiom11003/studiom1100300129/6549389-seamless-background-with-scissors.jpg");
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+.login-form {
+  width: 480px;
+  height: 480px;
+  background-color: white;
+  margin: auto;
+  padding: 50px;
+}
+.login-img {
+  background-color: black;
+  display: flex;
+}
+.login-img-cont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.login-footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+}
+.company {
+  color: gold;
+  margin: 0px 4px;
+  font-weight: 700;
+}
