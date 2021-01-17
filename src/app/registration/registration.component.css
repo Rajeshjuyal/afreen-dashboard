@@ -8,6 +8,8 @@
   display: flex;
 }
 .register-form {
+  overflow: scroll;
+
   width: 480px;
   height: 480px;
   background-color: white;
@@ -36,3 +38,6 @@
 .mybtn {
   background-color: chocolate;
 }
+/* .btndivclss {
+  background-color: red;
+} */
